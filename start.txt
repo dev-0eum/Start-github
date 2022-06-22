@@ -1,1 +1,8 @@
 Start github
+
+edit lines to merge branchs 
+
+plus commit one more
+
+
+after solving merge conflict, commit one more
