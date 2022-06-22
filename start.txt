@@ -6,3 +6,5 @@ plus commit one more
 
 
 after solving merge conflict, commit one more
+
+it is master branch after getting lines from branch 1 and 2
